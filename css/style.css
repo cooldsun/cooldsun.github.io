@@ -484,7 +484,7 @@ article footer .tags {
 }
 #cover {
   height: 250px;
-  background: "img.png";
+  background: cover;
   text-align: center;
   center: fixed;
   -moz-background-size: cover;
