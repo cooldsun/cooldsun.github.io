@@ -3,7 +3,7 @@
   padding: 0;
 }
 body {
-  background: #0ff;
+  background: #fff;
   color: #444;
   font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
   font-size: 14px;
@@ -484,7 +484,7 @@ article footer .tags {
 }
 #cover {
   height: 250px;
-  background: cover;
+  background: #f9f9f9;
   text-align: center;
   center: fixed;
   -moz-background-size: cover;
